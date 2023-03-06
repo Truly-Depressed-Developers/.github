@@ -13,6 +13,6 @@ This is a comprehensive list, if you'd like to see more details please refer to 
 | Event name | Event type | Project | Placement |
 |---|---|---|---|
 | Steelworksjam 2023 | Game jam | [Pandebrainium](https://github.com/Truly-Depressed-Developers/steelworksjam-2023) | 🥉3rd place |
-| BITEHack 2023 | Hackathon | TBA | - |
+| BITEHack 2023 | Hackathon | [Progresso](https://github.com/Truly-Depressed-Developers/progresso) | - |
 | Sheep Your Hack 4 | Hackathon | [Study Notes](https://github.com/Truly-Depressed-Developers/study-notes) | - |
 
