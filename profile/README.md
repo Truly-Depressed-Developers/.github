@@ -12,6 +12,7 @@ This is a comprehensive list, if you'd like to see more details please refer to 
 
 | Event name | Event type | Project | Placement |
 |---|---|---|---|
+| Hackyeah 2023 | Game jam | [Defendino](https://github.com/Truly-Depressed-Developers/defendino) | - |
 | Hacknarök 2023 | Game jam | [Dragejeger](https://github.com/Truly-Depressed-Developers/dragejeger)<br>[Fafnir's Last Stand](https://github.com/Truly-Depressed-Developers/fafnirs-last-stand) | -<br>- |
 | HackAGH 2023 | Hackathon | [AutoTrack](https://github.com/Truly-Depressed-Developers/auto-track) | 🥉3rd place |
 | Steelworksjam 2023 | Game jam | [Pandebrainium](https://github.com/Truly-Depressed-Developers/pandebrainium) | 🥉3rd place |
