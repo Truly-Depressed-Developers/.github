@@ -12,10 +12,11 @@ This is a comprehensive list, if you'd like to see more details please refer to 
 
 | Event name | Event type | Project | Placement |
 |---|---|---|---|
+| Steelworks Jam 2 | Game jam | [Pandemonium](https://github.com/Truly-Depressed-Developers/pandemonium) | - |
 | Hackyeah 2023 | Game jam | [Defendino](https://github.com/Truly-Depressed-Developers/defendino) | - |
 | Hacknarök 2023 | Game jam | [Dragejeger](https://github.com/Truly-Depressed-Developers/dragejeger)<br>[Fafnir's Last Stand](https://github.com/Truly-Depressed-Developers/fafnirs-last-stand) | -<br>- |
 | HackAGH 2023 | Hackathon | [AutoTrack](https://github.com/Truly-Depressed-Developers/auto-track) | 🥉3rd place |
-| Steelworksjam 2023 | Game jam | [Pandebrainium](https://github.com/Truly-Depressed-Developers/pandebrainium) | 🥉3rd place |
+| Steelworks Jam: Hi-Tech | Game jam | [Pandebrainium](https://github.com/Truly-Depressed-Developers/pandebrainium) | 🥉3rd place |
 | BITEHack 2023 | Hackathon | [Progresso](https://github.com/Truly-Depressed-Developers/progresso) | - |
 | Sheep Your Hack 4 | Hackathon | [Study Notes](https://github.com/Truly-Depressed-Developers/study-notes) | - |
 
