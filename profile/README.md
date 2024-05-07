@@ -12,6 +12,7 @@ This is a comprehensive list, if you'd like to see more details please refer to 
 
 | Event name | Event type | Project | Placement |
 |---|---|---|---|
+| Hacknarök 2024 | Hackathon | [Athygli]([https://github.com/Truly-Depressed-Developers/ViceVigil](https://github.com/Truly-Depressed-Developers/athygli))<br>[UpToDate]([https://github.com/Truly-Depressed-Developers/stop-scrolling](https://github.com/Truly-Depressed-Developers/upToDate)) | -<br>- |
 | BITEHack 2024 | Hackathon | [Vice Vigil](https://github.com/Truly-Depressed-Developers/ViceVigil)<br>[Stop Scrolling](https://github.com/Truly-Depressed-Developers/stop-scrolling) | 🥈2nd place<br>- |
 | Sheep Your Hack 5 | Hackathon | [Move it Mate](https://github.com/Truly-Depressed-Developers/move-it-mate) | - |
 | Steelworks Jam 2 | Game jam | [Pandemonium](https://github.com/Truly-Depressed-Developers/pandemonium) | - |
