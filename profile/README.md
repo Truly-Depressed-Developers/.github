@@ -14,8 +14,8 @@ This is a comprehensive list, if you'd like to see more details please refer to 
 |---|---|---|---|
 | BITEHack 2024.2 | Hackathon | [VitaLink](https://github.com/Truly-Depressed-Developers/VitaLink)<br>Golden Voice (TBA) | 🥉3rd place<br>- |
 | Hackyeah 2024 | Hackathon | [MatchCare](https://github.com/Truly-Depressed-Developers/MatchCare)| 🥈2nd place |
-| Hacknarök 2024.1 | Hackathon | [Athygli](https://github.com/Truly-Depressed-Developers/athygli)<br>[UpToDate](https://github.com/Truly-Depressed-Developers/upToDate) | -<br>- |
-| BITEHack 2024 | Hackathon | [Vice Vigil](https://github.com/Truly-Depressed-Developers/ViceVigil)<br>[Stop Scrolling](https://github.com/Truly-Depressed-Developers/stop-scrolling) | 🥈2nd place<br>- |
+| Hacknarök 2024 | Hackathon | [Athygli](https://github.com/Truly-Depressed-Developers/athygli)<br>[UpToDate](https://github.com/Truly-Depressed-Developers/upToDate) | -<br>- |
+| BITEHack 2024.1 | Hackathon | [Vice Vigil](https://github.com/Truly-Depressed-Developers/ViceVigil)<br>[Stop Scrolling](https://github.com/Truly-Depressed-Developers/stop-scrolling) | 🥈2nd place<br>- |
 | Sheep Your Hack 5 | Hackathon | [Move it Mate](https://github.com/Truly-Depressed-Developers/move-it-mate) | - |
 | Steelworks Jam 2 | Game jam | [Pandemonium](https://github.com/Truly-Depressed-Developers/pandemonium) | - |
 | Hackyeah 2023 | Game jam | [Defendino](https://github.com/Truly-Depressed-Developers/defendino) | - |
