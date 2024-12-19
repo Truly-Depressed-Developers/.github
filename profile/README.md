@@ -12,7 +12,7 @@ This is a comprehensive list, if you'd like to see more details please refer to 
 
 | Event name | Event type | Project | Placement |
 |---|---|---|---|
-| BITEHack 2024.2 | Hackathon | [VitaLink](https://github.com/Truly-Depressed-Developers/VitaLink)<br>Golden Voice (TBA) | 🥉3rd place<br>- |
+| BITEHack 2024.2 | Hackathon | [VitaLink](https://github.com/Truly-Depressed-Developers/VitaLink)<br>[Golden Voice](https://github.com/Truly-Depressed-Developers/GoldenVoice) | 🥉3rd place<br>- |
 | Hackyeah 2024 | Hackathon | [MatchCare](https://github.com/Truly-Depressed-Developers/MatchCare)| 🥈2nd place |
 | Hacknarök 2024 | Hackathon | [Athygli](https://github.com/Truly-Depressed-Developers/athygli)<br>[UpToDate](https://github.com/Truly-Depressed-Developers/upToDate) | -<br>- |
 | BITEHack 2024.1 | Hackathon | [Vice Vigil](https://github.com/Truly-Depressed-Developers/ViceVigil)<br>[Stop Scrolling](https://github.com/Truly-Depressed-Developers/stop-scrolling) | 🥈2nd place<br>- |
