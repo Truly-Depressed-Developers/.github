@@ -12,18 +12,18 @@ This is a comprehensive list, if you'd like to see more details please refer to 
 
 | Event name | Event type | Project | Placement |
 |---|---|---|---|
-| BITEHack 2026 | Hackathon | [AdSwap](https://github.com/Truly-Depressed-Developers/bitehack2026)| 🥈2nd place |
+| BITEhack 2026 | Hackathon | [AdSwap](https://github.com/Truly-Depressed-Developers/AdSwap)| 🥈2nd place |
 | Hacknarök 2025 | Hackathon | [MeetDrasil](https://github.com/Truly-Depressed-Developers/MeetDrasil)| 🥈2nd place |
-| BITEHack 2024.2 | Hackathon | [VitaLink](https://github.com/Truly-Depressed-Developers/VitaLink)<br>[Golden Voice](https://github.com/Truly-Depressed-Developers/GoldenVoice) | 🥉3rd place<br>- |
+| BITEhack 2024.2 | Hackathon | [VitaLink](https://github.com/Truly-Depressed-Developers/VitaLink)<br>[Golden Voice](https://github.com/Truly-Depressed-Developers/GoldenVoice) | 🥉3rd place<br>- |
 | Hackyeah 2024 | Hackathon | [MatchCare](https://github.com/Truly-Depressed-Developers/MatchCare)| 🥈2nd place |
 | Hacknarök 2024 | Hackathon | [Athygli](https://github.com/Truly-Depressed-Developers/athygli)<br>[UpToDate](https://github.com/Truly-Depressed-Developers/upToDate) | -<br>- |
-| BITEHack 2024.1 | Hackathon | [Vice Vigil](https://github.com/Truly-Depressed-Developers/ViceVigil)<br>[Stop Scrolling](https://github.com/Truly-Depressed-Developers/stop-scrolling) | 🥈2nd place<br>- |
+| BITEhack 2024.1 | Hackathon | [Vice Vigil](https://github.com/Truly-Depressed-Developers/ViceVigil)<br>[Stop Scrolling](https://github.com/Truly-Depressed-Developers/stop-scrolling) | 🥈2nd place<br>- |
 | Sheep Your Hack 5 | Hackathon | [Move it Mate](https://github.com/Truly-Depressed-Developers/move-it-mate) | - |
 | Steelworks Jam 2 | Game jam | [Pandemonium](https://github.com/Truly-Depressed-Developers/pandemonium) | - |
 | Hackyeah 2023 | Game jam | [Defendino](https://github.com/Truly-Depressed-Developers/defendino) | - |
 | Hacknarök 2023 | Game jam | [Dragejeger](https://github.com/Truly-Depressed-Developers/dragejeger)<br>[Fafnir's Last Stand](https://github.com/Truly-Depressed-Developers/fafnirs-last-stand) | -<br>- |
 | HackAGH 2023 | Hackathon | [AutoTrack](https://github.com/Truly-Depressed-Developers/auto-track) | 🥉3rd place |
 | Steelworks Jam: Hi-Tech | Game jam | [Pandebrainium](https://github.com/Truly-Depressed-Developers/pandebrainium) | 🥉3rd place |
-| BITEHack 2023 | Hackathon | [Progresso](https://github.com/Truly-Depressed-Developers/progresso) | - |
+| BITEhack 2023 | Hackathon | [Progresso](https://github.com/Truly-Depressed-Developers/progresso) | - |
 | Sheep Your Hack 4 | Hackathon | [Study Notes](https://github.com/Truly-Depressed-Developers/study-notes) | - |
 
