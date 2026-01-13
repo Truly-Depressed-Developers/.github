@@ -12,6 +12,7 @@ This is a comprehensive list, if you'd like to see more details please refer to 
 
 | Event name | Event type | Project | Placement |
 |---|---|---|---|
+| BITEHack 2026 | Hackathon | [AdSwap](https://github.com/Truly-Depressed-Developers/bitehack2026)| 🥈2nd place |
 | Hacknarök 2025 | Hackathon | [MeetDrasil](https://github.com/Truly-Depressed-Developers/MeetDrasil)| 🥈2nd place |
 | BITEHack 2024.2 | Hackathon | [VitaLink](https://github.com/Truly-Depressed-Developers/VitaLink)<br>[Golden Voice](https://github.com/Truly-Depressed-Developers/GoldenVoice) | 🥉3rd place<br>- |
 | Hackyeah 2024 | Hackathon | [MatchCare](https://github.com/Truly-Depressed-Developers/MatchCare)| 🥈2nd place |
